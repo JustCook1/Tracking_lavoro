@@ -1,0 +1,14 @@
+22/09 discussione progetto (lezione)
+
+24/09 definito progetto, definizione obiettivi del progetto
+
+28/09 prima stesura requisiti progetto (lezione)
+
+01/10 definizione lato front-end a partire dai requisiti
+
+04/10 revisione RF, definizione RNF, condivisione prime bozze mockup e sviluppo di una grafica congruente
+
+08/10 condivisione mockup, decisione palette mockup, definizione backend, ultimi ritocchi requisiti
+
+
+
