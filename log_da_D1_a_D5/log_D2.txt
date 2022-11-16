@@ -1,0 +1,20 @@
+14/10 divisione del carico di lavoro D2, chiarimenti su alcuni processi, inizio del lavoro sugli use case
+
+--------------------------------------------------------------------------------
+
+24/10 revisione dei diagrammi D2, discussione sui dettagli degli use case
+
+--------------------------------------------------------------------------------
+
+03/11 controllo e discussione sul lavoro fatto per il diagramma di contesto e il diagramma delle componenti
+
+--------------------------------------------------------------------------------
+
+05/11 controllo e discussione del diagramma delle componenti
+
+--------------------------------------------------------------------------------
+
+08/11 controllo finale del diagramma del contesto, ulteriore revisione del diagramma delle componenti
+
+--------------------------------------------------------------------------------
+
